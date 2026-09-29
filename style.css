@@ -42,4 +42,27 @@ button:hover{
     background: #c1c1c1;
 }
 
+/* =========================
+   PÁGINA DE CADASTRO
+   ========================= */
 
+/* Caixa do cadastro */
+.cadastro {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+
+/* Campos */
+.cadastro input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+/* Botão */
+.caixa-cadastro button {
+    width: 100%;
+}
